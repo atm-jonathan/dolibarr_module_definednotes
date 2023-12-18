@@ -3,10 +3,9 @@ All notable changes to this project will be documented in this file.
 ___
 
 ## Unreleased
-
-# RELEASE 1.2 - 2023-11-24
-
-- FIX : compat v16 php8.2 *24/11/2023* - 1.2
+- NEW : Compat V19 et php 8.2 *24/11/2023* - 1.2.0
+  Changed Dolibarr compatibility range to 15 min - 19 max  
+  Change PHP compatibility range to 7.0 min - 8.2 max
 
 # RELEASE 1.1 - 2021-08-05
 
